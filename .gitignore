@@ -129,3 +129,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore compiled documents
+documentation/
+intended/
