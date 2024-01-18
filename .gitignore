@@ -131,5 +131,5 @@ dmypy.json
 .pyre/
 
 # Ignore compiled documents
-documentation/
-intended/
+sites/*/documentation/
+sites/*/intended/
